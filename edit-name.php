@@ -51,7 +51,7 @@ if (isset($_POST['update'])) {
 
     <!-- PHP: show an error here, only when there is one -->
      <?php if ($error !== ""): ?>
-     <div class="alert error"><?php echo htmlspecialchars($error)?>div>
+     <div class="alert error"><?php echo htmlspecialchars($error); ?></div>
      <?php endif ?>
 
     <form action="edit-name.php" method="POST">
@@ -64,4 +64,3 @@ if (isset($_POST['update'])) {
   </main>
 </body>
 </html>
-

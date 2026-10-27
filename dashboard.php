@@ -70,8 +70,8 @@ $since = date("d M Y", strtotime($user['created_at']));
       <dl class="details">
         <div class="row"><dt>Name</dt><dd><?php echo htmlspecialchars($user['name']); ?></dd></div>
         <div class="row"><dt>Email</dt><dd><?php echo htmlspecialchars($user['email']); ?></dd></div>
-        <p><a href="edit-name.php">Edit name</a></p>
       </dl>
+      <p class="actions"><a href="edit-name.php">Edit name</a></p>
     </section>
   </main>
 </body>
