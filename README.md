@@ -2,6 +2,8 @@
 
 A registration and login system with a private dashboard, built with PHP and MySQL. It focuses on the basics of keeping user accounts safe.
 
+Live site: https://ordinaryphantom-lgtm.github.io/secure-login-php/
+
 ![Login page](Log-in.png)
 ![Dashboard](Dashboard.png)
 
