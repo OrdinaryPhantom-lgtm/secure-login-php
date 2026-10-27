@@ -2,8 +2,8 @@
 
 A registration and login system with a private dashboard, built with PHP and MySQL. It focuses on the basics of keeping user accounts safe.
 
-![Login page](login.png)
-![Dashboard](dashboard.png)
+![Login page](Login.png)
+![Dashboard](Dashboard.png)
 
 ## Features
 
